@@ -8,8 +8,39 @@
 .p2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 900;
+    border: 2px red solid;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    margin-bottom: 30px;
 }
 
 .p3{
+    color: orangered;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: justify;
+    text-transform: capitalize;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: orange;
+    text-decoration-thickness: 2px;
+    padding-top: 30px;
+    text-shadow: 5px 5px 20px orange;
+    word-spacing:10px ;
+    
+}
+#link1{
+    text-decoration-line:none;
+    border: 3px black solid;
+    background-color: orangered;
+    color: white;
+    padding: 10px;;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px black;
+}
+*{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
 }
